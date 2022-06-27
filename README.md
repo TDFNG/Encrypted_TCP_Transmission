@@ -1,2 +1,2 @@
 # Encrypted_TCP_Transmission
-使用ECDH加密传输内容，并使用自定的保活线程，确保TCP连接的通畅安全
+创建TCP连接，并加密传输内容，使用自定的保活线程来确保TCP的连通性
